@@ -11,7 +11,7 @@ I'm passionate about discovering insights through data and turning numbers into 
 - 🎓 Currently studying Data Science with a focus on Python, Machine Learning, and Big Data
 - 📊 Strong background in statistics, reporting, and analytical thinking
   (further enhanced by hands-on experience in high-problem-solving environments such as IT support)
-- 💡 I aspire to become a full-fledged **Data Analyst** because I believe in the power of data to drive smart decisions and uncover meaningful patterns
+- 💡 I aspire to become a full-fledged **Data Analyst** because I believe in the power of data to drive smart decisions and uncover meaningful patterns 
 
 ---
 
