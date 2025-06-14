@@ -36,7 +36,6 @@ I'm passionate about discovering insights through data and turning numbers into 
 
 ### 📫 How to reach me
 
--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20"/> [linkedin.com/in/eleonoracagnani](www.linkedin.com/in/eleonora-cagnani-5724b0275)  
-📍 Turin, Italy
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20"/> [linkedin.com/in/eleonoracagnani](www.linkedin.com/in/eleonora-cagnani-5724b0275)  
 - ✉️ [cagnani.eleonora@gmail.com](mailto:cagnani.eleonora@gmail.com)
 - 📍 Turin, Italy
