@@ -36,6 +36,6 @@ I'm passionate about discovering insights through data and turning numbers into 
 
 ### 📫 How to reach me
 
--[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eleonora-cagnani-5724b0275)
+-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eleonora-cagnani-5724b0275)
 - ✉️ [cagnani.eleonora@gmail.com](mailto:cagnani.eleonora@gmail.com)
 - 📍 Turin, Italy
