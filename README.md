@@ -31,6 +31,7 @@ I'm passionate about discovering insights through data and turning numbers into 
 
 - 🧠 [insurance-cross-selling](https://github.com/eleonoracagnani/insurance-cross-selling): Binary classification project to predict customer response to a cross-selling offer using Logistic Regression and Decision Tree  
 - 🏦 [bank-client-analysis](https://github.com/eleonoracagnani/bank-client-analysis): SQL-based feature engineering project for customer behavior analysis in banking
+- 💳 [credit-scoring](https://github.com/eleonoracagnani/credit_scoring_project): Machine learning project for credit card approval, including EDA, model training (Logistic Regression, Decision Tree) and final evaluation  
 
 ---
 
